@@ -53,6 +53,7 @@
 - When writing complex logic, **add an inline `# Reason:` comment** explaining the why, not just the what.
 
 ### 🧠 AI Behavior Rules
+- **NEVER RUN PURGE COMMANDS UNLESS ABSOLUTELY NECESSARY. AND ALWSY REMIND THE USER THAT THIS WILL PURGE EVERYTHING**
 - **Never assume missing context. Ask questions if uncertain.**
 - **Never hallucinate libraries or functions** – only use known, verified Python packages.
 - **Always confirm file paths and module names** exist before referencing them in code or tests.
