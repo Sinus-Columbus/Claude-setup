@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MnM dashboard
 
 A full-stack web application for tracking League of Legends team performance, draft notes, and statistics.
@@ -363,3 +364,9 @@ For issues or questions, please check:
 1. The troubleshooting section above
 2. Backend API docs at http://localhost:8000/docs
 3. Project documentation in the `PRPs/` directory
+=======
+# Info
+
+Dette er en arbejds klar version af et personligt setup til Claude.
+Du kan se flere use cases som implementation af MCP eller andre Claude commands i filerne "use-cases" eller "claude-code-full-guide" i det originale repo.
+>>>>>>> parent of 662e221 (Initial program)

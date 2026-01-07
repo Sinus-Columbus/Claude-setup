@@ -1,5 +1,6 @@
 ## FEATURES
 
+<<<<<<< HEAD
 ### Champion pool side
 
 Lav en champion pool side, hvor man kan klikke ind under de 5 spilleres navne for at se en liste der har:
@@ -7,6 +8,9 @@ Lav en champion pool side, hvor man kan klikke ind under de 5 spilleres navne fo
 - Beskrivelse
 - Pick
 Det er alt sammen strings
+=======
+[Insert your feature here]
+>>>>>>> parent of 662e221 (Initial program)
 
 ## EXAMPLES:
 
@@ -19,3 +23,8 @@ Det er alt sammen strings
 ## OTHER CONSIDERATIONS:
 
 [Any other considerations or specific requirements - great place to include gotchas that you see AI coding assistants miss with your projects a lot]
+
+## Cleanup
+
+Remove the files:
+README

@@ -30,6 +30,7 @@
       "Bash(azd env get-values:*)",
       "Bash(azd env show:*)",
       "WebFetch(domain:docs.anthropic.com)",
+<<<<<<< HEAD
       "WebFetch(domain:github.com)",
       "Bash(if [ -d \"venv/Scripts\" ])",
       "Bash(then . venv/Scripts/activate)",
@@ -59,6 +60,9 @@
       "Bash(Select-Object FullName)",
       "Bash(./venv/Scripts/python.exe:*)",
       "Bash(curl:*)"
+=======
+      "WebFetch(domain:github.com)"
+>>>>>>> parent of 662e221 (Initial program)
     ],
     "deny": []
   }
