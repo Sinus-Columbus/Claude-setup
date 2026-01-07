@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "local-filesystem": {
+      "description": "Read/write access scoped to this repository root.",
+      "command": "uvx",
+      "args": ["mcp-server-filesystem"],
+      "env": {
+        "ROOT": "."
+      },
+      "workingDirectory": "."
+    },
+    "git-readonly": {
+      "description": "Read-only Git metadata (logs, branches, status).",
+      "command": "uvx",
+      "args": ["mcp-server-git"],
+      "env": {
+        "GIT_DIR": ".git"
+      },
+      "workingDirectory": "."
+    }
+  }
+}

@@ -1,6 +1,6 @@
 # Execute BASE PRP
 
-Implement a feature using using the PRP file.
+Universal command for any agent (Claude, Gemini, Codex, etc.). Implement a feature using the PRP file. Follow `AGENTS.md` for workspace standards so any agent can execute consistently.
 
 ## PRP File: $ARGUMENTS
 

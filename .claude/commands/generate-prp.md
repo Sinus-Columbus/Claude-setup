@@ -2,9 +2,9 @@
 
 ## Feature file: $ARGUMENTS
 
-Generate a complete PRP for general feature implementation with thorough research. Ensure context is passed to the AI agent to enable self-validation and iterative refinement. Read the feature file first to understand what needs to be created, how the examples provided help, and any other considerations.
+Universal command for any agent (Claude, Gemini, Codex, etc.). Generate a complete PRP for general feature implementation with thorough research. Ensure context is passed to the AI agent to enable self-validation and iterative refinement. Read the feature file first to understand what needs to be created, how the examples provided help, and any other considerations. Review `AGENTS.md` so the plan aligns with workspace standards for all agents.
 
-The AI agent only gets the context you are appending to the PRP and training data. Assuma the AI agent has access to the codebase and the same knowledge cutoff as you, so its important that your research findings are included or referenced in the PRP. The Agent has Websearch capabilities, so pass urls to documentation and examples.
+The target agent (Claude, Gemini, Codex, etc.) only gets the context you are appending to the PRP and training data. Assume the agent has access to the codebase and the same knowledge cutoff as you, so include or reference your research findings directly. If the agent supports web search, pass URLs to documentation and examples.
 
 ## Research Process
 
