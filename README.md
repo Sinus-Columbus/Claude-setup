@@ -1,6 +1,6 @@
 # Info
 
-Dette er en arbejds klar version af et personligt setup til Claude.
+Dette er en arbejds klar version af et personligt setup til mit workflow med AI agenter.
 Du kan se flere use cases som implementation af MCP eller andre Claude commands i filerne "use-cases" eller "claude-code-full-guide" i det originale repo.
 
 ## Hurtig vejledning: KopiA©r agent-setup til et andet repo
